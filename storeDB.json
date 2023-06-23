@@ -17,7 +17,7 @@
         "Description": "SurvivalMIX/e/- Sethome : 6/e/-auction limit auctions : 5/e/- create clan : /clan create/e//e/- 📦 kit VIP :/kit/e//e/- Redprotec: [RP]/e/--- Max claim : 6/e/--- Max block : 20.000/e//e/- Drops spawner (with silk touch)/e/- pw max : 2/e/- chest shop limit : 15/e/- Dailyreward: COMMON (/daily)/e/- money : $ 60 000"
       },
       {
-        "Name": "VIP+",
+        "Name": "VIP++",
         "Price": "50.000",
         "Thumnail": "./Assets/Images/minecraft.jpg",
         "MinDescription": "Rank yang lumayan untuk sekedar pamer",
@@ -31,7 +31,7 @@
         "Description": "SurvivalMIX/e/- fly /fly/e/---world/e/- enderchest: /ec/e/- heal :/heal/e/- Sethome : 10/e/-auction limit auctions :11/e/- create clan : /clan create/e//e/- 📦 kit VVIP :/kit/e//e/- Redprotec: [RP]/e/--- Max claim : 13/e/--- Max block : 75.000/e/- Drops spawner (with silk touch)/e/- pw max : 4/e/- chest shop limit : 25/e/- Dailyreward: COMMON (/daily)/e/- money : $ 300 000"
       },
       {
-        "Name": "VVIP+",
+        "Name": "VVIP++",
         "Price": "130.000",
         "Thumnail": "./Assets/Images/minecraft.jpg",
         "MinDescription": "Rank yang cocok untuk starter pack #2",
@@ -45,7 +45,7 @@
         "Description": "SurvivalMIX/e/- fly /fly/e/---world/e/---nether/e/- enderchest: /ec/e/- heal :/heal/e/- repair:/repair/e/- feed : /feed/e/- Sethome : 16/e/-auction limit auctions :17/e/- create clan : /clan create/e//e/- 📦 kit MVP :/kit/e//e/- Redprotec: [RP]/e/--- Max claim : 22/e/--- Max block : 130.000/e//e/- Drops spawner (with silk touch)/e/- pw max : 6/e/- chest shop limit : 35/e/- Dailyreward: COMMON (/daily)/e/- money : $ 1.200 000"
       },
       {
-        "Name": "MVP+",
+        "Name": "MVP++",
         "Price": "270.000",
         "Thumnail": "./Assets/Images/minecraft.jpg",
         "MinDescription": "Rank yang lumayan untuk pamer",
@@ -59,8 +59,29 @@
         "Description": "SurvivalMIX/e/- fly /fly/e/---world/e/---nether/e/---the end/e/- enderchest: /ec/e/- heal :/heal/e/- repair:/repair/e/- feed : /feed/e/- change nickame: /nick/e/- 🚥Glow :/eglow (color) (all color) work on java edition&pojav/e/- Sethome : 25/e/-auction limit auctions :23/e/- create clan : /clan create/e//e/- 📦 kit SUPREME:/kit/e//e/- Redprotec: [RP]/e/--- Max claim : 34/e/--- Max block : 200.000/e//e/- Drops spawner (with silk touch)/e/- pw max : 8/e/- chest shop limit : 45/e/- Dailyreward: COMMON (/daily)/e/- money : $ 6.500 000"
       },
       {
-        "Name": "DONATUR",
-        "Price": "800.000",
+        "Name": "SUPREME++",
+        "Price": "700.000",
+        "Thumnail": "./Assets/Images/minecraft.jpg",
+        "MinDescription": "Rank paling OP di mode SurvivalMix",
+        "Description": "SurvivalMIX/e/- fly /fly/e/---world/e/---nether/e/---the_end/e/- enderchest: /ec/e/- heal :/heal/e/- repair:/repair/e/- feed : /feed/e/- change nickname: /nick/e/- 🚥Glow :/eglow (color) (all color) work on java edition&pojav/e/- Sethome : 40/e/-auction limit auctions :30/e/- create clan : /clan create/e//e/- 📦 kit DONATUR :/kit/e//e/------------+++++++--------------/e/- Custom Name prefix(RANK)/e/- Costum Color prefix/e/- Kit OP/e/------------+++++++--------------/e//e/- Redprotec: [RP]/e/--- Max claim : 50/e/--- Max block : 350.000/e//e/- Drops spawner (with silk touch)/e/- pw max : 10/e/- chest shop limit : 50/e/- Dailyreward: COMMON (/daily)/e/- money : $ 15.000 000"
+      },
+      {
+        "Name": "ULTIMATE",
+        "Price": "700.000",
+        "Thumnail": "./Assets/Images/minecraft.jpg",
+        "MinDescription": "Rank paling OP di mode SurvivalMix",
+        "Description": "SurvivalMIX/e/- fly /fly/e/---world/e/---nether/e/---the_end/e/- enderchest: /ec/e/- heal :/heal/e/- repair:/repair/e/- feed : /feed/e/- change nickname: /nick/e/- 🚥Glow :/eglow (color) (all color) work on java edition&pojav/e/- Sethome : 40/e/-auction limit auctions :30/e/- create clan : /clan create/e//e/- 📦 kit DONATUR :/kit/e//e/------------+++++++--------------/e/- Custom Name prefix(RANK)/e/- Costum Color prefix/e/- Kit OP/e/------------+++++++--------------/e//e/- Redprotec: [RP]/e/--- Max claim : 50/e/--- Max block : 350.000/e//e/- Drops spawner (with silk touch)/e/- pw max : 10/e/- chest shop limit : 50/e/- Dailyreward: COMMON (/daily)/e/- money : $ 15.000 000"
+      },
+      {
+        "Name": "ULTIMATE++",
+        "Price": "1.200.000",
+        "Thumnail": "./Assets/Images/minecraft.jpg",
+        "MinDescription": "Rank paling OP di mode SurvivalMix",
+        "Description": "SurvivalMIX/e/- fly /fly/e/---world/e/---nether/e/---the_end/e/- enderchest: /ec/e/- heal :/heal/e/- repair:/repair/e/- feed : /feed/e/- change nickname: /nick/e/- 🚥Glow :/eglow (color) (all color) work on java edition&pojav/e/- Sethome : 40/e/-auction limit auctions :30/e/- create clan : /clan create/e//e/- 📦 kit DONATUR :/kit/e//e/------------+++++++--------------/e/- Custom Name prefix(RANK)/e/- Costum Color prefix/e/- Kit OP/e/------------+++++++--------------/e//e/- Redprotec: [RP]/e/--- Max claim : 50/e/--- Max block : 350.000/e//e/- Drops spawner (with silk touch)/e/- pw max : 10/e/- chest shop limit : 50/e/- Dailyreward: COMMON (/daily)/e/- money : $ 15.000 000"
+      },
+      {
+        "Name": "LEGENDARY",
+        "Price": "1.500.000",
         "Thumnail": "./Assets/Images/minecraft.jpg",
         "MinDescription": "Rank paling OP di mode SurvivalMix",
         "Description": "SurvivalMIX/e/- fly /fly/e/---world/e/---nether/e/---the_end/e/- enderchest: /ec/e/- heal :/heal/e/- repair:/repair/e/- feed : /feed/e/- change nickname: /nick/e/- 🚥Glow :/eglow (color) (all color) work on java edition&pojav/e/- Sethome : 40/e/-auction limit auctions :30/e/- create clan : /clan create/e//e/- 📦 kit DONATUR :/kit/e//e/------------+++++++--------------/e/- Custom Name prefix(RANK)/e/- Costum Color prefix/e/- Kit OP/e/------------+++++++--------------/e//e/- Redprotec: [RP]/e/--- Max claim : 50/e/--- Max block : 350.000/e//e/- Drops spawner (with silk touch)/e/- pw max : 10/e/- chest shop limit : 50/e/- Dailyreward: COMMON (/daily)/e/- money : $ 15.000 000"

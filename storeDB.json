@@ -14,28 +14,28 @@
         "Price": "30.000",
         "Thumnail": "./Assets/Images/minecraft.jpg",
         "MinDescription": "Rank termurah yang wajib kamu miliki",
-        "Description": "SurvivalMIX/e/- Sethome : 6/e/-auction limit auctions : 5/e/- create clan : /clan create/e//e/- 📦 kit VIP :/kit/e//e/- Redprotec: [RP]/e/--- Max claim : 6/e/--- Max block : 20.000/e//e/- Drops spawner (with silk touch)/e/- pw max : 2/e/- chest shop limit : 15/e/- Dailyreward: COMMON (/daily)/e/- money : $ 60 000"
+        "Description": "urvival Vanilla/e/- Team Create : /team create <nama_team>/e/- DropsSpawners : (with Silk Touch)/e/- sethome : 3/e/- auction limit autions : 5/e/- chestshop limit : 10/e/- RedProtec : [RP]/e//t/- Max Claim : 6/e//t/- Max Block : 15.625 (125x125)/e/- DailyReward : COMMON (/daily)/e/- Players Warp : 2/e/- Kit & Tool : [VIP]-KIT/e/- Money : $ 20.000 (/branks)"
       },
       {
         "Name": "VIP++",
         "Price": "50.000",
         "Thumnail": "./Assets/Images/minecraft.jpg",
         "MinDescription": "Rank yang lumayan untuk sekedar pamer",
-        "Description": " SurvivalMIX/e/- enderchest /ec/e/- Sethome : 8/e/-auction limit auctions :8/e/- create clan : /clan create/e//e/- 📦 kit VIP+:/kit/e//e/- Redprotec: [RP]/e/--- Max claim : 9/e/--- Max block : 40.000/e//e/- Drops spawner (with silk touch)/e/- pw max : 3/e/- chest shop limit : 20/e/- Dailyreward: COMMON (/daily)/e/- money : $ 180 000 /e/"
+        "Description": " Survival Vanilla/e/- EnderChest : /ender/e/- Team Create : /team create <nama_team>/e/- DropsSpawners : (with Silk Touch)/e/- sethome : 6/e/- auction limit autions : 8/e/- chestshop limit : 15/e/- RedProtec : [RP]/e//t/- Max Claim : 9/e//t/- Max Block : 21.025 (145x145)/e/- DailyReward : COMMON (/daily)/e/- Players Warp : 3/e/- Kit : [VIP++]-KIT/e/- Money : $ 60.000 (/branks)"
       },
       {
         "Name": "VVIP",
         "Price": "90.000",
         "Thumnail": "./Assets/Images/minecraft.jpg",
         "MinDescription": "Rank yang cocok untuk starter pack",
-        "Description": "SurvivalMIX/e/- fly /fly/e/---world/e/- enderchest: /ec/e/- heal :/heal/e/- Sethome : 10/e/-auction limit auctions :11/e/- create clan : /clan create/e//e/- 📦 kit VVIP :/kit/e//e/- Redprotec: [RP]/e/--- Max claim : 13/e/--- Max block : 75.000/e/- Drops spawner (with silk touch)/e/- pw max : 4/e/- chest shop limit : 25/e/- Dailyreward: COMMON (/daily)/e/- money : $ 300 000"
+        "Description": "Survival Vanilla/e/- Feed : /feed/e/- Fly : /fly/e//t/- world/e/- EnderChest : /ender/e/- Team Create : /team create <nama_team>/e/- DropsSpawners : (with Silk Touch)/e/- sethome :  9/e/- auction limit autions : 11/e/- chestshop limit : 20/e/- RedProtec : [RP]/e//t/- Max Claim : 13/e/- Max Block : 34.225 (185x185)/e/- DailyReward : COMMON+ (/daily)/e/- Players Warp : 4/e/- Kit : [VVIP]-KIT/e/- Money : $ 180.000 (/branks)"
       },
       {
         "Name": "VVIP++",
         "Price": "130.000",
         "Thumnail": "./Assets/Images/minecraft.jpg",
         "MinDescription": "Rank yang cocok untuk starter pack #2",
-        "Description": "SurvivalMIX/e/- fly /fly/e/---world/e/- enderchest: /ec/e/- heal :/heal/e/- repair:/repair/e/- Sethome : 12/e/-auction limit auctions :14/e/- create clan : /clan create/e//e/- 📦 kit VVIP+ :/kit/e//e/- Redprotec: [RP]/e/--- Max claim : 17/e/--- Max block : 100.000/e//e/- Drops spawner (with silk touch)/e/- pw max : 5/e/- chest shop limit : 30/e/- Dailyreward: COMMON (/daily)/e/- money : $ 500 000"
+        "Description": "Survival Vanilla/e/- Heal : /heal/e/- Feed : /feed/e/- Fly : /fly/e//t/- world/e/- EnderChest : /ender/e/- Team Create : /team create <nama_team>/e/- DropsSpawners : (without Silk Touch)/e/- sethome : 12/e/- auction limit autions : 14/e/- chestshop limit : 25/e/- RedProtec : [RP]/e//t/- Max Claim : 17/e//t/- Max Block : 50.625 (225x225)/e/- DailyReward : COMMON+ (/daily)/e/- Players Warp : 5/e/- Kit : [VVIP++]-KIT/e/- Money : $ 300.000 (/branks)"
       },
       {
         "Name": "MVP",

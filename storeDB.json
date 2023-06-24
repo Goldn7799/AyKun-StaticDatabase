@@ -7,14 +7,14 @@
         "Price": "0",
         "Thumnail": "./Assets/Images/minecraft.jpg",
         "MinDescription": "Rank gratis yang didapat ketika masuk server",
-        "Description": "- sethome : 1/e/- auction limit autions : 2/e/- chestshop Limit : 5/e/- RedProtec : [RP]/e/  - Max Claim : 3/e/  - Max Block : 8.100 (90x90)/e/- DailyReward : BASIC (/daily)/e/- Players Warp : 1/e/- Kit : [STARTER]-KIT"
+        "Description": "Survival Vanilla/e/- sethome : 1/e/- auction limit autions : 2/e/- chestshop Limit : 5/e/- RedProtec : [RP]/e/  - Max Claim : 3/e/  - Max Block : 8.100 (90x90)/e/- DailyReward : BASIC (/daily)/e/- Players Warp : 1/e/- Kit : [STARTER]-KIT"
       },
       {
         "Name": "VIP",
         "Price": "30.000",
         "Thumnail": "./Assets/Images/minecraft.jpg",
         "MinDescription": "Rank termurah yang wajib kamu miliki",
-        "Description": "urvival Vanilla/e/- Team Create : /team create <nama_team>/e/- DropsSpawners : (with Silk Touch)/e/- sethome : 3/e/- auction limit autions : 5/e/- chestshop limit : 10/e/- RedProtec : [RP]/e//t/- Max Claim : 6/e//t/- Max Block : 15.625 (125x125)/e/- DailyReward : COMMON (/daily)/e/- Players Warp : 2/e/- Kit & Tool : [VIP]-KIT/e/- Money : $ 20.000 (/branks)"
+        "Description": "Survival Vanilla/e/- Team Create : /team create <nama_team>/e/- DropsSpawners : (with Silk Touch)/e/- sethome : 3/e/- auction limit autions : 5/e/- chestshop limit : 10/e/- RedProtec : [RP]/e//t/- Max Claim : 6/e//t/- Max Block : 15.625 (125x125)/e/- DailyReward : COMMON (/daily)/e/- Players Warp : 2/e/- Kit & Tool : [VIP]-KIT/e/- Money : $ 20.000 (/branks)"
       },
       {
         "Name": "VIP++",

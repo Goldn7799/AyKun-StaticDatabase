@@ -70,21 +70,21 @@
         "Price": "950.000",
         "Thumnail": "./Assets/Images/minecraft.jpg",
         "MinDescription": "Rank paling OP di mode SurvivalMix",
-        "Description": "SurvivalMIX/e/- fly /fly/e/---world/e/---nether/e/---the_end/e/- enderchest: /ec/e/- heal :/heal/e/- repair:/repair/e/- feed : /feed/e/- change nickname: /nick/e/- 🚥Glow :/eglow (color) (all color) work on java edition&pojav/e/- Sethome : 40/e/-auction limit auctions :30/e/- create clan : /clan create/e//e/- 📦 kit DONATUR :/kit/e//e/------------+++++++--------------/e/- Custom Name prefix(RANK)/e/- Costum Color prefix/e/- Kit OP/e/------------+++++++--------------/e//e/- Redprotec: [RP]/e/--- Max claim : 50/e/--- Max block : 350.000/e//e/- Drops spawner (with silk touch)/e/- pw max : 10/e/- chest shop limit : 50/e/- Dailyreward: COMMON (/daily)/e/- money : $ 15.000 000"
+        "Description": "Survival Vanilla/e/- Custom Name RANK/e/- Custom  Nickname Color/e/- eglow Color : /eglow/e//t/- color/e//t/- blink/e//t/- rainbow/e/- Change Nickname : /nick/e/- Repair : /repair/e/- Heal : /heal/e/- Feed : /feed/e/- Fly : /fly/e//t/- world/e//t/- world_nether/e//t/- world_the_end/e/- EnderChest : /ender/e/- Team Create : /team create <nama_team>/e/- DropsSpawners : (without Silk Touch)/e/- sethome : 27/e/- auction limit autions : 29/e/- chestshop limit : 50/e/- RedProtec : [RP]/e//t/- Max Claim : 51/e//t/- Max Block : 250.000 (500x500)/e/- DailyReward : MYYTHIC (/daily)/e/- Players Warp : 10/e/- Kit : [ULTIMATE]-KIT/e/- Money : $ 9.000.000 (/branks)"
       },
       {
         "Name": "ULTIMATE++",
         "Price": "1.200.000",
         "Thumnail": "./Assets/Images/minecraft.jpg",
         "MinDescription": "Rank paling OP di mode SurvivalMix",
-        "Description": "SurvivalMIX/e/- fly /fly/e/---world/e/---nether/e/---the_end/e/- enderchest: /ec/e/- heal :/heal/e/- repair:/repair/e/- feed : /feed/e/- change nickname: /nick/e/- 🚥Glow :/eglow (color) (all color) work on java edition&pojav/e/- Sethome : 40/e/-auction limit auctions :30/e/- create clan : /clan create/e//e/- 📦 kit DONATUR :/kit/e//e/------------+++++++--------------/e/- Custom Name prefix(RANK)/e/- Costum Color prefix/e/- Kit OP/e/------------+++++++--------------/e//e/- Redprotec: [RP]/e/--- Max claim : 50/e/--- Max block : 350.000/e//e/- Drops spawner (with silk touch)/e/- pw max : 10/e/- chest shop limit : 50/e/- Dailyreward: COMMON (/daily)/e/- money : $ 15.000 000"
+        "Description": "Survival Vanilla/e/- vanish : /vanish/e/- Custom Name RANK/e/- Custom  Nickname Color/e/- eglow Color : /eglow/e//t/- color/e//t/- blink/e//t/- rainbow/e/- Change Nickname : /nick/e/- Repair : /repair/e/- Heal : /heal/e/- Feed : /feed/e/- Fly : /fly/e//t/- world/e//t/- world_nether/e//t/- world_the_end/e/- EnderChest : /ender/e/- Team Create : /team create <nama_team>/e/- DropsSpawners : (without Silk Touch)/e/- sethome : 30/e/- auction limit autions : 32/e/- chestshop limit : 55/e/- RedProtec : [RP]/e//t/- Max Claim : 61/e//t/- Max Block : 336.400 (580x580)/e/- DailyReward : MYTHIC (/daily)/e/- Players Warp : 11/e/- Kit : [ULTIMATE++]-KIT/e/- Money : $ 13.000.000 (/branks)"
       },
       {
         "Name": "LEGENDARY",
         "Price": "1.500.000",
         "Thumnail": "./Assets/Images/minecraft.jpg",
         "MinDescription": "Rank paling OP di mode SurvivalMix",
-        "Description": "SurvivalMIX/e/- fly /fly/e/---world/e/---nether/e/---the_end/e/- enderchest: /ec/e/- heal :/heal/e/- repair:/repair/e/- feed : /feed/e/- change nickname: /nick/e/- 🚥Glow :/eglow (color) (all color) work on java edition&pojav/e/- Sethome : 40/e/-auction limit auctions :30/e/- create clan : /clan create/e//e/- 📦 kit DONATUR :/kit/e//e/------------+++++++--------------/e/- Custom Name prefix(RANK)/e/- Costum Color prefix/e/- Kit OP/e/------------+++++++--------------/e//e/- Redprotec: [RP]/e/--- Max claim : 50/e/--- Max block : 350.000/e//e/- Drops spawner (with silk touch)/e/- pw max : 10/e/- chest shop limit : 50/e/- Dailyreward: COMMON (/daily)/e/- money : $ 15.000 000"
+        "Description": "Survival Vanilla/e/- God Mode : /god/e/- Vanish : /vanish/e/- Custom Name RANK/e/- Custom  Nickname Color/e/- eglow Color : /eglow/e//t/- color/e//t/- blink/e//t/- rainbow/e/- Change Nickname : /nick/e/- Repair : /repair/e/- Heal : /heal/e/- Feed : /feed/e/- Fly : /fly/e//t/- world/e//t/- world_nether/e//t/- world_the_end/e/- EnderChest : /ender/e/- Team Create : /team create <nama_team>/e/- DropsSpawners : (without Silk Touch)/e/- sethome : 33/e/- auction limit autions : 35/e/- chestshop limit : 60/e/- RedProtec : [RP]/e//t/- Max Claim : 72/e//t/- Max Block : 422.500 (650x650)/e/- DailyReward : LEGENDARY (/daily)/e/- Players Warp : 12/e/- Kit : [LEGENDARY]-KIT/e/- Money : $ 18.000.000 (/branks)"
       }
     ]
   }

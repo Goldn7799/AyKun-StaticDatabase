@@ -86,6 +86,29 @@
         "MinDescription": "Rank paling OP di mode Survival",
         "Description": "Survival All/e/- God Mode : /god/e/- Vanish : /vanish/e/- Custom Name RANK/e/- Custom  Nickname Color/e/- eglow Color : /eglow/e//t/- color/e//t/- blink/e//t/- rainbow/e/- Change Nickname : /nick/e/- Repair : /repair/e/- Heal : /heal/e/- Feed : /feed/e/- Fly : /fly/e//t/- world/e//t/- world_nether/e//t/- world_the_end/e/- EnderChest : /ender/e/- Team Create : /team create <nama_team>/e/- DropsSpawners : (without Silk Touch)/e/- sethome : 33/e/- auction limit autions : 35/e/- chestshop limit : 60/e/- RedProtec : [RP]/e//t/- Max Claim : 72/e//t/- Max Block : 422.500 (650x650)/e/- DailyReward : LEGENDARY (/daily)/e/- Players Warp : 12/e/- Kit : [LEGENDARY]-KIT/e/- Money : $ 18.000.000 (/branks)"
       }
+    ],
+    "Custom Rank Prefix": [
+      {
+        "Name": "Per Huruf",
+        "Price": "3.000/2 Bulan"
+        "Thumnail": "https://cdn.discordapp.com/attachments/1091112604497346680/1091129010282573914/Tablist-1.png",
+        "MinDescription": "Harga Custom Rank Per Huruf",
+        "Description": "Dapat Digunakkan Di Mode Mana Saja dan bisa Diperpanjang"
+      },
+      {
+        "Name": "Per Warna",
+        "Price": "6.000/2 Bulan"
+        "Thumnail": "https://cdn.discordapp.com/attachments/1091112604497346680/1091128132473475094/Tablist.png",
+        "MinDescription": "Harga Custom Rank Per Warna",
+        "Description": "Dapat Digunakkan Di Mode Mana Saja dan bisa Diperpanjang"
+      },
+      {
+        "Name": "Custom '[ ]'",
+        "Price": "8.000/2 Bulan"
+        "Thumnail": "https://cdn.discordapp.com/attachments/1091112604497346680/1091128132473475094/Tablist.png",
+        "MinDescription": "Harga Custom yang di tambah '[ ]'",
+        "Description": "Dapat Digunakkan Di Mode Mana Saja dan bisa Diperpanjang"
+      },
     ]
   }
 }

@@ -87,7 +87,7 @@
         "Description": "Survival All/e/- God Mode : /god/e/- Vanish : /vanish/e/- Custom Name RANK/e/- Custom  Nickname Color/e/- eglow Color : /eglow/e//t/- color/e//t/- blink/e//t/- rainbow/e/- Change Nickname : /nick/e/- Repair : /repair/e/- Heal : /heal/e/- Feed : /feed/e/- Fly : /fly/e//t/- world/e//t/- world_nether/e//t/- world_the_end/e/- EnderChest : /ender/e/- Team Create : /team create <nama_team>/e/- DropsSpawners : (without Silk Touch)/e/- sethome : 33/e/- auction limit autions : 35/e/- chestshop limit : 60/e/- RedProtec : [RP]/e//t/- Max Claim : 72/e//t/- Max Block : 422.500 (650x650)/e/- DailyReward : LEGENDARY (/daily)/e/- Players Warp : 12/e/- Kit : [LEGENDARY]-KIT/e/- Money : $ 18.000.000 (/branks)"
       }
     ],
-    "Custom/s/Rank/s/Prefix": [
+    "Custom Rank Prefix": [
       {
         "Name": "Per Huruf",
         "Price": "3.000/2 Bulan"
